@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\bin\Debug\netcoreapp3.1\BotFInal.exe
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\bin\Debug\netcoreapp3.1\BotFInal.deps.json
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\bin\Debug\netcoreapp3.1\BotFInal.runtimeconfig.json
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\bin\Debug\netcoreapp3.1\BotFInal.runtimeconfig.dev.json
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\bin\Debug\netcoreapp3.1\BotFInal.dll
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\bin\Debug\netcoreapp3.1\BotFInal.pdb
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\obj\Debug\netcoreapp3.1\BotFInal.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\obj\Debug\netcoreapp3.1\BotFInal.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\obj\Debug\netcoreapp3.1\BotFInal.AssemblyInfo.cs
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\obj\Debug\netcoreapp3.1\BotFInal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\obj\Debug\netcoreapp3.1\BotFInal.csproj.CopyComplete
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\obj\Debug\netcoreapp3.1\BotFInal.dll
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\obj\Debug\netcoreapp3.1\BotFInal.pdb
+C:\Users\HP\Desktop\PROGRA I\BotFInal\BotFInal\obj\Debug\netcoreapp3.1\BotFInal.genruntimeconfig.cache
